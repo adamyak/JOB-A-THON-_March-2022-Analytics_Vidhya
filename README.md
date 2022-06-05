@@ -8,11 +8,11 @@ ID = Unique Identifier of a row  Age = Age of the customer  Gender = Gender of t
 ## Model Used
  ##### Of all the models, I have used Complement Naive bayes as it gave the F1 score = 0.5919506990 and Accuracy = 0.69
  #
-### Model when trained with 40% Test Data
+### Model when tested with 40% Test Data
  ##### First Ranker F1 Score= 0.6249118684
  ##### My F1 Score = 0.5919506990
  #
-### Model when trained with 100% Test Data
+### Model when tested with 100% Test Data
  ##### First Ranker F1 Score= 0.5886851198
  ##### My F1 Score = 0.5830880813 (18th Rank)
 
